@@ -1,0 +1,23 @@
+.container{
+    background-color: blue;
+    display: flex;
+    padding: 100px;
+    text-align: justify;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.div1{
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+}
+    
+
+
+
+
+
